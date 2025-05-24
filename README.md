@@ -2,8 +2,9 @@
 <h3 align="center">Data Science & Machine Learning Enthusiast | Actuarial Scientist | Based in Kenya</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
+  <img src="https://user-images.githubusercontent.com/105254140/273532337-7ebcb2fa-2a40-4260-b5ae-3be47a02013a.png" alt="Data Science Illustration" width="600"/>
 </p>
+
 
 ---
 
