@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Mwenda</h1>
 <h3 align="center">Data Science & Machine Learning Enthusiast | Actuarial Scientist | Based in Kenya</h3>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Artificial_intelligence_robot_thinks_about_future.jpg/800px-Artificial_intelligence_robot_thinks_about_future.jpg" alt="AI and Data Science" width="600"/>
-</p>
 
 
 
