@@ -1,21 +1,69 @@
 <h1 align="center">Hi 👋, I'm Victor Mwenda</h1>
-<h3 align="center">Passionate Data Science and Machine learning enthusiast, skilled in Actuarial Science - Based in Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">Data Science & Machine Learning Enthusiast | Actuarial Scientist | Based in Kenya</h3>
 
-- 🔭 I’m currently working on **Data Science for Actuaries**
-
-- 💬 Ask me about **Python, R**
-
-- 📫 How to reach me **victorkeemathie@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/victormkimathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victormkimathi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorkeemathie&show_icons=true&locale=en&layout=compact" alt="victorkeemathie" /></p>
+### 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorkeemathie&" alt="victorkeemathie" /></p>
+- 🔭 Currently working on **Data Science for Actuaries**
+- 💡 Passionate about models, data, and the stories they tell
+- 💬 Ask me about: `Python`, `R`, `Machine Learning`, `SQL`
+- 📫 Reach me at: **victorkeemathie@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/victormkimathi)
+
+---
+
+### 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-333?logo=python)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql)
+![Flask](https://img.shields.io/badge/-Flask-000?logo=flask)
+
+---
+
+### 📁 Featured Repositories
+
+| Project | Description | Topics |
+|--------|-------------|--------|
+| [SQL-For-Data-Analysis-and-Data-Science](https://github.com/Victorkeemathie/SQL-For-Data-Analysis-and-Data-Science) | SQL queries and business analysis case studies | SQL, Data Analysis |
+| [PythonRecursionExamples](https://github.com/Victorkeemathie/PythonRecursionExamples) | A beginner-friendly walkthrough of recursion in Python | Python, Algorithms |
+| [PyLinearRegML](https://github.com/Victorkeemathie/PyLinearRegML) | Linear regression from scratch for ML understanding | Machine Learning, Python |
+| [Pandas-Learning-Journey](https://github.com/Victorkeemathie/Pandas-Learning-Journey) | Hands-on notebook journey through the pandas library | Python, Data Wrangling |
+| [ML-in-Python-101](https://github.com/Victorkeemathie/ML-in-Python-101) | Core ML algorithms implemented and explained in Python | Python, ML |
+| [python-advanced-demos](https://github.com/Victorkeemathie/python-advanced-demos) | Snippets covering advanced Python programming concepts | Python |
+| [Python-OOP-Masterclass](https://github.com/Victorkeemathie/Python-OOP-Masterclass) | Object-oriented design and structure using Python | OOP, Python |
+| [python-basics-demos](https://github.com/Victorkeemathie/python-basics-demos) | Basic Python concepts and syntax demos | Python, Beginners |
+
+> 🎯 I'm actively expanding these with notebooks, real-world datasets, and model explainers.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victorkeemathie&show_icons=true&theme=tokyonight" alt="Victor's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorkeemathie&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorkeemathie&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🎯 Goals for 2025
+
+```text
+✅ Publish an actuarial modeling notebook series
+🔧 Build end-to-end ML apps with Flask
+🎓 Contribute to beginner-friendly open-source tutorials
